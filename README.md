@@ -4,7 +4,7 @@ Portfolio Optimization using the Markowitz Model: This repository contains Pytho
 This project implements the Markowitz mean-variance optimization model for portfolio construction. The analysis is conducted using historical stock data from 10 large-cap US companies, providing a practical approach to asset allocation with the goal of minimizing risk or maximizing return.
 
 ## Project Structure
-- **`report.tex`**: LaTeX source file for the portfolio optimization report.
+- **`REPORT.tex`**: LaTeX source file for the portfolio optimization report.
 - **`modello_markovitz.ipynb`**: Folder containing Python scripts used for data retrieval, preprocessing, and optimization.
 
 ## Libraries Used
