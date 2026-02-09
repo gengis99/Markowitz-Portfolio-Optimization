@@ -5,7 +5,7 @@ This project implements the Markowitz mean-variance optimization model for portf
 
 ## Project Structure
 - **`report.tex`**: LaTeX source file for the portfolio optimization report.
-- **`modello_markovitz.ipynb/`**: Folder containing Python scripts used for data retrieval, preprocessing, and optimization.
+- **`modello_markovitz.ipynb`**: Folder containing Python scripts used for data retrieval, preprocessing, and optimization.
 
 ## Libraries Used
 - **Python**: For data extraction, manipulation, and optimization.
